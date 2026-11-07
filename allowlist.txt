@@ -1,0 +1,6 @@
+# DNS allowlist for AdGuard Home.
+# One domain per line. A line starting with # is a comment.
+# Each domain covers that name and all of its subdomains.
+# Domains listed here must never be blocked. Add one only when a
+# blocklist entry breaks a site or device you need.
+

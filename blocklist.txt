@@ -1,0 +1,54 @@
+# DNS blocklist for AdGuard Home.
+# One domain per line. A line starting with # is a comment.
+# Each domain blocks that name and all of its subdomains.
+# Do not add core services: google.com, apple.com, microsoft.com,
+# github.com, cloudflare.com, cursor.com, auth providers, or AI assistants.
+
+# Seed - 2026-11-07
+2mdn.net
+2o7.net
+adform.net
+adnxs.com
+adroll.com
+adsafeprotected.com
+ads-twitter.com
+adsrvr.org
+advertising.com
+amazon-adsystem.com
+app-measurement.com
+bidswitch.net
+bluekai.com
+casalemedia.com
+clarity.ms
+criteo.com
+criteo.net
+demdex.net
+doubleclick.net
+doubleverify.com
+exelator.com
+google-analytics.com
+googleadservices.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
+hotjar.com
+krxd.net
+media.net
+mgid.com
+moatads.com
+omtrdc.net
+openx.net
+outbrain.com
+pubmatic.com
+quantserve.com
+revcontent.com
+rlcdn.com
+rubiconproject.com
+scorecardresearch.com
+serving-sys.com
+sharethrough.com
+smartadserver.com
+taboola.com
+tapad.com
+teads.tv
+triplelift.com
